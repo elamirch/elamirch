@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amirrezatm
+- 👀 I’m interested in free software world, biotechnology, blockchain etc.
+- 🌱 I’m currently learning Rust, Debian GNU/Linux and Javascript.
+- 📫 How to reach me: twitter.com/amirrezatm2, linkedin.com/amirrezatm
