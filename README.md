@@ -1,4 +1,4 @@
 - 👋 Hi, I’m elamir
-- 👀 I’m interested in free software world, blockchain, humanities and biomedical engineering.
-- 🌱 I’m currently learning Rust/Actix/WASM, Debian GNU/Linux and front-end web development (Vanilla Javascript).
+- 👀 I’m interested in free software world, blockchain, humanities and I study medical sciences.
+- 🌱 I’m currently learning Rust/Actix/WASM, Debian GNU/Linux, PHP/Laravel and Vue.js/jQuery.
 - 📫 How to reach me: twitter.com/elamir_ir, linkedin.com/amirrezatm, amirrezatm.blog.ir
