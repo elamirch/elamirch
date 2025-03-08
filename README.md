@@ -1,4 +1,4 @@
 - 👋 Hi, I’m elamir
 - 👀 I’m interested in free software world, blockchain, humanities (though I study medical sciences).
-- 🌱 I’m currently learning Debian GNU/Linux and PHP/Laravel (if I had free time I'd learn Rust/Actix as well).
-- 📫 How to reach me: elamir.site, twitter.com/itselamir, linkedin.com/amirrezatm
+- 🌱 Back-end developer with PHP/Laravel.
+- 📫 How to reach me: elamir.ch, x.com/elamirch, linkedin.com/amirrezat-tavakkoli
